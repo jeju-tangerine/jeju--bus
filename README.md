@@ -5,5 +5,5 @@
 1. weather.csv    
   + 기상청 날씨누리 사이트(http://www.weather.go.kr/) 에서 지상 관측 자료 크롤링한 데이터
     
-2. rain3.csv
+2. rain.csv
   + 데이콘에서 제공한 외부 실제 측정 데이터(https://data.kma.go.kr/cmmn/main.do)
