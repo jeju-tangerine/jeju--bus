@@ -7,6 +7,9 @@
     
 2. [rain.csv](https://github.com/jeju-tangerine/jeju--bus/blob/master/rain.csv)
   + 데이콘에서 제공한 외부 실제 측정 데이터(https://data.kma.go.kr/cmmn/main.do)
+
+3. [df_location.csv](https://github.com/jeju-tangerine/jeju--bus/blob/master/df_location.csv) & [life_location.csv](https://github.com/jeju-tangerine/jeju--bus/blob/master/life_location.csv)
+  + 지오코딩 프로그램(Geocorder-Xr)을 통해 행정 구역 이름을 추출한 데이터
     
-3. [퇴근 시간 버스 승차 인원 예측 경진대회.ipynb](https://github.com/jeju-tangerine/jeju--bus/blob/master/3.%20%ED%87%B4%EA%B7%BC%20%EC%8B%9C%EA%B0%84%20%EB%B2%84%EC%8A%A4%20%EC%8A%B9%EC%B0%A8%20%EC%9D%B8%EC%9B%90%20%EC%98%88%EC%B8%A1%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.ipynb)
+4. [퇴근 시간 버스 승차 인원 예측 경진대회.ipynb](https://github.com/jeju-tangerine/jeju--bus/blob/master/3.%20%ED%87%B4%EA%B7%BC%20%EC%8B%9C%EA%B0%84%20%EB%B2%84%EC%8A%A4%20%EC%8A%B9%EC%B0%A8%20%EC%9D%B8%EC%9B%90%20%EC%98%88%EC%B8%A1%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.ipynb)
   + 본문에 사용된 실습 코드
